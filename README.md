@@ -1,0 +1,2 @@
+# checkers
+The game checkers
