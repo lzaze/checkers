@@ -1,0 +1,4 @@
+com\company\game\logic\Board.class
+com\company\game\logic\Piece.class
+com\company\game\BoardUI.class
+com\company\Main.class
